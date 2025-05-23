@@ -4,7 +4,12 @@ Dense 3D reconstruction
 
 Project for lecture course on 3D Computer Vision in winter semester 2024-2025.
 
-Input Data: 9 RGB images, 9 Depth images, Camera calibration parameters, Camera movement matrices, 7 Features.
+Input Data: 
+* 9 RGB images,
+* 9 Depth images,
+* Camera calibration parameters,
+* Camera movement matrices,
+* 7 Features.
 
 Output Data: dense point cloud reconstruction saved in .ply format.
 
